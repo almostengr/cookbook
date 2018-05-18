@@ -27,5 +27,5 @@ hours depending on the weight.
 ## Final product
 Below is the cooked chicken with the leg cut apart.
 
-![Final Product](https://www.instagram.com/p/Bi5u3UBAyJU/?taken-by=almostengr)
+[Final Product](https://www.instagram.com/p/Bi5u3UBAyJU/?taken-by=almostengr)
 
