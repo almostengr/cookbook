@@ -1,8 +1,8 @@
-# Whole Baked Chicken
+# Whole Baked Chicken with Lemon Pepper Seasoning
 
 ## Ingredients
 * 1 chicken
-* seasoning of your choosing (seasoned salt, lemon pepper, etc) (no oil)
+* Lemon pepper seasoning (or another seasoning of your choosing)
 
 ## Tools 
 * oven at 400 degrees F
