@@ -5,12 +5,14 @@
 
 ## Tools 
 * Oven pre-heated to 400 degrees F (205 degress C)
+* Cooking sheet (or cast iron skillet)
 
 ## Directions
-* Heat the grill to cooking temperature.
-* Place the corn on the grill. Do not remove the husk.
-* Let the corn cook until the husk is light to medium brown, but not burned. 
-* As the husk browns, rotate the corn so that the entire cob cooks. 
-* Once the entire husk is light to medium brown, remove the corn from the grill.
-* Shuck the corn while it is still hot.
-* Season with grond garlic, salt, pepper and butter.
+* Pre-heat oven to stated temperature
+* Lay strips of bacon on the cooking sheet not overlaping
+* Place in oven for 15-20 minutes, or until desired crispyness has been reached
+* Remove sheet from oven and drain off excess fat. 
+* Allow to cool and then serve!
+
+## Notes
+* Using cooking sheet lined with foil will make cleanup easier and less likely to stick.
