@@ -5,9 +5,9 @@
 * Lemon pepper seasoning (or another seasoning of your choosing)
 
 ## Tools 
-* oven at 400 degrees F
-* roasting pan or cast iron skillet 
-* refrigerator
+* Pre-heated oven at 400 degrees F (205 degrees C)
+* Roasting pan or cast iron skillet 
+* Refrigerator
 
 ## Directions
 * Wash the chicken inside and out. Remove all the internal organs.

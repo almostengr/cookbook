@@ -13,7 +13,7 @@
 
 ## Tools
 * Stand or handheld mixer
-* Oven at 350 degrees F (175 degrees C)
+* Pre-heated oven at 350 degrees F (175 degrees C)
 	
 
 ## Directions 
