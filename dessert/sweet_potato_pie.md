@@ -14,7 +14,6 @@
 ## Tools
 * Stand or handheld mixer
 * Pre-heated oven at 350 degrees F (175 degrees C)
-	
 
 ## Directions 
 * Boil sweet potato in skin until soft all the way though. 
@@ -26,5 +25,4 @@
 * Pour filling into graham cracker crust, filling the crust about 1/2 to 2/3 full.
 * Bake in the oven for 45 minutes or until knife inserted comes out clean
   Pie will swell as it cooks. It will return to normal once cooled.
-
 
