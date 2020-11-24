@@ -6,6 +6,7 @@
 * elbow noodles (or other if you choose)
 * jar of pasta sauce
 * seasonings of your choice
+* water
 
 ## Tools 
 
