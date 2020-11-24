@@ -17,4 +17,4 @@
 * As the husk browns, rotate the corn so that the entire cob cooks. 
 * Once the entire husk is light to medium brown, remove the corn from the grill.
 * Shuck the corn while it is still hot.
-* Season with grond garlic, salt, pepper and butter.
+* Season with garlic, salt, pepper and butter.
