@@ -1,9 +1,18 @@
 # DIY Hamburger Helper
 
+## Ingredients
+
 * 1 pound of ground beef
 * elbow noodles (or other if you choose)
 * jar of pasta sauce
-* seasonings of your choice 
+* seasonings of your choice
+
+## Tools 
+
+* medium to large pot
+* spoon
+
+## Directions
 
 In a pot, do the following:
 Cook ground beef until fully browned 
