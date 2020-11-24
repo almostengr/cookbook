@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 10
+Allow: /
+Sitemap: https://almostengr.github.io/cookbook/sitemap.xml
