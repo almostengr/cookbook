@@ -5,9 +5,9 @@ on:
     branches:
       - main
 
+jobs:
   build:
     runs-on: ubuntu-18.04
-    needs: spellcheck
 
     steps:
     - uses: actions/checkout@v2
